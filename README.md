@@ -6,7 +6,7 @@ Neste desafio você vai construir uma aplicação utilizando a biblioteca Rea
 
 ## Utilize o seguinte layout na aplicação:
 
-![Listagem](/assets/list.png)
+![Listagem](/assets/listagem.png)
 ![New](/assets/new.png)
 
 Veja que na esquerda temos uma lista dos usuários cadastrados enquanto que no mapa temos os avatares do usuário indicando sua posição no mapa.
